@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\bin\Debug\net6.0\StudentsGPACalculator.exe
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\bin\Debug\net6.0\StudentsGPACalculator.deps.json
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\bin\Debug\net6.0\StudentsGPACalculator.runtimeconfig.json
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\bin\Debug\net6.0\StudentsGPACalculator.dll
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\bin\Debug\net6.0\StudentsGPACalculator.pdb
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\StudentsGPACalculator.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\StudentsGPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\StudentsGPACalculator.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\StudentsGPACalculator.AssemblyInfo.cs
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\StudentsGPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\StudentsGPACalculator.dll
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\refint\StudentsGPACalculator.dll
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\StudentsGPACalculator.pdb
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\StudentsGPACalculator.genruntimeconfig.cache
+C:\Users\hp\Desktop\Pod2 Assignments\StudentsGPACalculator\StudentsGPACalculator\obj\Debug\net6.0\ref\StudentsGPACalculator.dll
